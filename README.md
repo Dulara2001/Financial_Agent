@@ -1,5 +1,7 @@
 # 📌 About the Project  
 
+**Demo**:https://drive.google.com/file/d/15xkA6xYzMHXn8nMoYgQAlRS30R57Gt3m/view?usp=sharing
+
 This project implements AI-powered agents capable of retrieving financial data and performing web searches. Using the **Phi AI** framework, it integrates **Groq LLaMA-3.3-70B**, **YFinance**, and **DuckDuckGo** to provide accurate and insightful responses. The project features a **Playground** for interactive agent interactions.  
 
 ## ✨ Key Highlights  
